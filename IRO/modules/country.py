@@ -101,7 +101,7 @@ async def msg(event):
 ᴛᴏᴘ ʟᴇᴠᴇʟ ᴅᴏᴍᴀɪɴ:- {lanester}
 ᴡɪᴋɪᴘᴇᴅɪᴀ:- {wiki}</b>
 
-Gathered By IRO ✨.</b>
+Gathered By PusuXSecure ✨.</b>
 """
 
     await borg.send_message(

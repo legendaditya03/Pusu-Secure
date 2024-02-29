@@ -16,11 +16,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/IR-O/IRO_ROBOT/stargazers"><img src="https://img.shields.io/github/stars/IR-O/IRO_ROBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/IR-O/IRO_ROBOT/network/members"> <img src="https://img.shields.io/github/forks/IR-O/IRO_ROBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/IR-O/IRO_ROBOT/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/legendaditya03/Pusu-Secure/stargazers"><img src="https://img.shields.io/github/stars/legendaditya03/Pusu-Secure?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/legendaditya03/Pusu-Secure/network/members"> <img src="https://img.shields.io/github/forks/legendaditya03/Pusu-Secure?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/legendaditya03/Pusu-Secure/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/IR-O/IRO_ROBOT/commits/IR-O"> <img src="https://img.shields.io/github/last-commit/IR-O/IRO_ROBOT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/legendaditya03/Pusu-Secure/commits/IR-O"> <img src="https://img.shields.io/github/last-commit/legendaditya03/Pusu-Secure?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 

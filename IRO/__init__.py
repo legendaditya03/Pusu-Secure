@@ -99,7 +99,7 @@ if ENV:
     STRICT_GMUTE = os.environ.get('STRICT_GMUTE', True)
     DB_URL = os.environ.get("DATABASE_URL")
     DB_URL = DB_URL.replace("postgres://", "postgresql://", 1)
-    REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", "BpFP7okACX7S4rFVywGqiRHH)
+    REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", "BpFP7okACX7S4rFVywGqiRHH")
     MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
     LOAD = os.environ.get("LOAD", "").split()
     HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
@@ -120,7 +120,7 @@ if ENV:
     SPAMWATCH_SUPPORT_CHAT = os.environ.get("SPAMWATCH_SUPPORT_CHAT", None)
     SPAMWATCH_API = os.environ.get("SPAMWATCH_API", None)
     ARQ_API_URL = os.environ.get("ARQ_API_URL", "https://arq.hamker.in")
-    ARQ_API_KEY = os.environ.get("ARQ_API_KEY", "ZPRHMQ-JLZTOT-DLHFZC-OOJXYL-ARQ)
+    ARQ_API_KEY = os.environ.get("ARQ_API_KEY", "ZPRHMQ-JLZTOT-DLHFZC-OOJXYL-ARQ")
     START_IMG = os.environ.get("START_IMG", "https://graph.org/file/466c3154878ff1338bdde.jpg")
     ALLOW_CHATS = os.environ.get("ALLOW_CHATS", True)
 

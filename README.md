@@ -1,7 +1,7 @@
-![ɪꝛᴏ](https://te.legra.ph/file/d2d656ff1e4a61c9feff8.jpg)
+![ɪꝛᴏ](https://telegra.ph/file/adbd6b9e64b77a3afa8c8.jpg)
 # ᴜɴᴍᴀɪɴᴛᴀɪɴᴇᴅ
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+A+ADVANCE+BOT)](https://github.com/IR-O/IRO_ROBOT)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+PUSU+X+SECURE+BOT)](https://github.com/legendaditya03/Pusu-Secure)
 
 <p align="center">
     ─「 sᴜᴩᴩᴏʀᴛ 」─
@@ -9,10 +9,10 @@
 
 </h3>
 <p align="center">
-<a href="https://telegram.me/iro_x_support"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/pusu_world"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/iro_bot_support"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/pusu_world01"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">

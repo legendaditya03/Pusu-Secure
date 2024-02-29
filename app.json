@@ -1,5 +1,5 @@
 {
-      "name": "IRO_ROBOT",
+      "name": "Pusu_X_Secure",
       "description": "A Powerful Telegram Group Management Bot To Manage Your Group.",
       "keywords": [
          "telegram",
@@ -9,12 +9,12 @@
          "IRO"
       ],
     
-   "logo": "https://te.legra.ph/file/d2d656ff1e4a61c9feff8.jpg",  
-   "repository": "https://github.com/IR-O/IRO_ROBOT",
+   "logo": "https://graph.org/file/ac65ca5d3c0217acefcf9.jpg",  
+   "repository": "https://github.com/legendaditya03/Pusu-Secure",
    "addons": [
           {
          "options": {
-            "version": "12"
+            "version": "12.1"
          },
          "plan": "heroku-postgresql"
       }
@@ -29,7 +29,7 @@
   ],  
    "env": {
       "TOKEN": {
-         "description": "Your bot token. Get one from @BotFather duh",
+         "description": "Your bot token. Get one from @BotFather",
          "required": true,
          "value": ""
       },
@@ -46,7 +46,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "6045293810"
+         "value": "6513089685"
       },
       "STRING_SESSION": {
          "description": "Fill with telethon string session get it form @Iro_string_bot .",
@@ -71,21 +71,21 @@
       },  
       "BOT_USERNAME": {
          "description": "username of your bot without the @",
-         "value": "Iro_m_bot"
+         "value": "PusuXSecure_Bot"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "shaeep43"
+         "value": "legend_pusu"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "iro_x_support"
+         "value": "pusu_world"
       },
       "UPDATES_CHANNEL": {
          "description": "Your Telegram update channel chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "iro_bot_support"
+         "value": "pusu_world01"
       },         
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -105,7 +105,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
          "required": false,
-         "value": "6045293810"
+         "value": "6513089685"
       },
       "ERROR_LOG": {
          "description": "ID of log for show error.",
@@ -128,22 +128,22 @@
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "6045293810"
+         "value": "6513089685"
       },
       "DEMONS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "6045293810"
+         "value": "6513089685"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "6045293810"
+         "value": "6513089685"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "6045293810"
+         "value": "6513089685"
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -176,7 +176,7 @@
       "START_IMG": {
          "description": "your favourate image",
          "required": false,
-         "value": "https://telegra.ph/file/e05de00926b92acd12240.jpg"
+         "value": "https://graph.org/file/ac65ca5d3c0217acefcf9.jpg"
       },
         "START_STICKER": {
          "description": "Sticker that display on /start command",

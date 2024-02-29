@@ -10,8 +10,8 @@ from IRO import telethn as tbot
 from IRO.events import register
 
 PHOTO = [
-    "https://telegra.ph/file/4fb072fa4a0c834f8a0f6.jpg",
-    "https://telegra.ph/file/4fb072fa4a0c834f8a0f6.jpg",
+    "https://graph.org/file/466c3154878ff1338bdde.jpg",
+    "https://graph.org/file/466c3154878ff1338bdde.jpg",
 ]
 
 

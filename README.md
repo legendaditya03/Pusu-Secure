@@ -35,9 +35,9 @@
 ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [ᴅᴇᴠꜱ](https://t.me/iro_x_support/16) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [ɪꝛᴏ](https://t.me/Iro_m_bot)
 
 <p align="center">
-<a href="https://github.com/Iro09"> <img src="https://img.shields.io/badge/PIKACHU♡-black?style=for-the-badge&logo=github" alt="PIKACHU♡" /> </a>
+<a href="https://github.com/Iro09"> <img src="https://img.shields.io/badge/🌹🌹 𝙼𝚛 𝙿𝚄𝚂𝚄 🌹🌹-black?style=for-the-badge&logo=github" alt="🌹🌹 𝙼𝚛 𝙿𝚄𝚂𝚄 🌹🌹" /> </a>
 <p align="center">
-<a href="https://telegram.me/shaeep43"><img src="https://img.shields.io/badge/-PIKACHU♡%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/legend_pusu"><img src="https://img.shields.io/badge/-🌹🌹 𝙼𝚛 𝙿𝚄𝚂𝚄 🌹🌹%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -53,7 +53,7 @@
 	
   <h1>
     <p align="center">
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/IR-O/IRO_ROBOT">
+        <a href="https://dashboard.heroku.com/new?template=https://github.com/legendaditya03/Pusu-Secure">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
 </h1>
@@ -72,7 +72,7 @@
 	
   <h1>
     <p align="center">
-        <a href="https://cloud.okteto.com/deploy?repository=https://github.com/IR-O/IRO_ROBOT">
+        <a href="https://cloud.okteto.com/deploy?repository=https://github.com/legendaditya03/Pusu-Secure">
             <img src="https://img.shields.io/badge/Deploy%20On%20Okteto-informational?style=for-the-badge&logo=Okteto" alt="Deploy">
         </a>
 </h1>

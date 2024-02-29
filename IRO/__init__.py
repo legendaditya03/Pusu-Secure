@@ -38,9 +38,9 @@ logging.getLogger("pyrogram").setLevel(logging.INFO)
 logging.getLogger('ptbcontrib.postgres_persistence.postgrespersistence').setLevel(logging.WARNING)
 
 LOGGER = logging.getLogger('[IRO]')
-LOGGER.info("IRO is starting. | PIKKU Project Parts. | Licensed under GPLv3.")
+LOGGER.info("PusuXSecure is starting. | PUSU Project Parts. | Licensed under GPLv3.")
 LOGGER.info("ॐ नमो भगवते वासुदेवाय नमःॐ श्री कृष्णाय गोविन्दाय गोपीजन वल्लभाय नमःॐ श्री कृष्णाय नमः.")
-LOGGER.info("Project maintained by: github.com/IR-O (t.me/shaeep43)")
+LOGGER.info("Project maintained by: github.com/legendaditya03 (t.me/legend_pusu)")
 
 # if version < 3.9, stop bot.
 if sys.version_info[0] < 3 or sys.version_info[1] < 9:
@@ -99,7 +99,7 @@ if ENV:
     STRICT_GMUTE = os.environ.get('STRICT_GMUTE', True)
     DB_URL = os.environ.get("DATABASE_URL")
     DB_URL = DB_URL.replace("postgres://", "postgresql://", 1)
-    REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", "TRYUKo5sCJ6q1WaK4k4ENHya")
+    REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", "BpFP7okACX7S4rFVywGqiRHH)
     MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
     LOAD = os.environ.get("LOAD", "").split()
     HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
@@ -120,8 +120,8 @@ if ENV:
     SPAMWATCH_SUPPORT_CHAT = os.environ.get("SPAMWATCH_SUPPORT_CHAT", None)
     SPAMWATCH_API = os.environ.get("SPAMWATCH_API", None)
     ARQ_API_URL = os.environ.get("ARQ_API_URL", "https://arq.hamker.in")
-    ARQ_API_KEY = os.environ.get("ARQ_API_KEY", "APKOWQ-FMCLIZ-UAULMT-SAMPYA-ARQ")
-    START_IMG = os.environ.get("START_IMG", "https://telegra.ph/file/e05de00926b92acd12240.jpg")
+    ARQ_API_KEY = os.environ.get("ARQ_API_KEY", "ZPRHMQ-JLZTOT-DLHFZC-OOJXYL-ARQ)
+    START_IMG = os.environ.get("START_IMG", "https://graph.org/file/466c3154878ff1338bdde.jpg")
     ALLOW_CHATS = os.environ.get("ALLOW_CHATS", True)
 
     try:
@@ -209,9 +209,9 @@ else:
 # If you forking dont remove this id, just add your id. LOL...
 
 DRAGONS.add(OWNER_ID)
-DRAGONS.add(6045293810)
+DRAGONS.add(6513089685)
 DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(6045293810)
+DEV_USERS.add(6513089685)
 
 if not SPAMWATCH_API:
     sw = None

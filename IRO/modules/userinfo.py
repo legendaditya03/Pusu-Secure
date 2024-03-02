@@ -317,7 +317,7 @@ def info(update: Update, context: CallbackContext):
     elif user.id in WOLVES:
         text += "\n\nᴛʜᴇ ᴅɪꜱᴀꜱᴛᴇʀ ʟᴇᴠᴇʟ ᴏꜰ ᴛʜɪꜱ ᴘᴇʀꜱᴏɴ ɪꜱ ꜱᴏʟᴅɪᴇʀ ʙᴀʙʏ🥀."
         disaster_level_present = True
-    elif user.id == 1820525265:
+    elif user.id == 6513089685:
          text += "\n\nᴅᴇᴠᴇʟᴏᴘᴇʀ ᴏꜰ ʙᴏᴛ ʙᴀʙʏ🥀."
          disaster_level_present = True
 

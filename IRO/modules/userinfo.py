@@ -353,7 +353,7 @@ def info(update: Update, context: CallbackContext):
                 [
                     [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://graph.org/Pikสcђu-09-29-2"),
+                                "ʜᴇᴀʟᴛʜ", url="https://telegra.ph/%F0%9D%99%BC%F0%9D%9A%9B-%F0%9D%99%BF%F0%9D%9A%84%F0%9D%9A%82%F0%9D%9A%84-03-02-2"),
                             InlineKeyboardButton(
                                 "ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}")
                     ],
@@ -371,7 +371,7 @@ def info(update: Update, context: CallbackContext):
                     [
 [
                             InlineKeyboardButton(
-                                "ʜᴇᴀʟᴛʜ", url="https://graph.org/Pikสcђu-09-29-2"),
+                                "ʜᴇᴀʟᴛʜ", url="https://telegra.ph/%F0%9D%99%BC%F0%9D%9A%9B-%F0%9D%99%BF%F0%9D%9A%84%F0%9D%9A%82%F0%9D%9A%84-03-02-2"),
                             InlineKeyboardButton(
                                 "ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}")
                     ],
@@ -562,7 +562,7 @@ __help__ = """
 » `/info`*:* ɢᴇᴛ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ᴀ ᴜꜱᴇʀ. 
 
  *ᴡʜᴀᴛ ɪꜱ ᴛʜᴀᴛ ʜᴇᴀʟᴛʜ ᴛʜɪɴɢʏ?*
-  ᴄᴏᴍᴇ ᴀɴᴅ ꜱᴇᴇ [ʜᴘ ꜱʏꜱᴛᴇᴍ ᴇxᴘʟᴀɪɴᴇᴅ](https://telegra.ph/ᴀʟᴏɴᴇ-02-15)
+  ᴄᴏᴍᴇ ᴀɴᴅ ꜱᴇᴇ [ʜᴘ ꜱʏꜱᴛᴇᴍ ᴇxᴘʟᴀɪɴᴇᴅ](https://telegra.ph/%F0%9D%99%BC%F0%9D%9A%9B-%F0%9D%99%BF%F0%9D%9A%84%F0%9D%9A%82%F0%9D%9A%84-03-02-2)
 
 
 """

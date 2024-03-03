@@ -49,7 +49,7 @@
          "value": "6513089685"
       },
       "STRING_SESSION": {
-         "description": "Fill with telethon string session get it form @Iro_string_bot .",
+         "description": "Fill with telethon string session get it form @Pusu_String_Gen_Bot .",
          "required": true,
          "value": "" 
       },

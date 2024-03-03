@@ -32,10 +32,10 @@
 ─「 ᴄʀᴇᴅɪᴛꜱ 」─ 
 
 
-ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [ᴅᴇᴠꜱ](https://t.me/iro_x_support/16) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [ɪꝛᴏ](https://t.me/Iro_m_bot)
+ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [ᴅᴇᴠꜱ](https://t.me/PusuXMusic_Bot) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [𝙿𝚄𝚂𝚄 ✘ 𝚂𝙴𝙲𝚄𝚁𝙴](https://t.me/PusuXSecure_Bot)
 
 <p align="center">
-<a href="https://github.com/Iro09"> <img src="https://img.shields.io/badge/🌹🌹 𝙼𝚛 𝙿𝚄𝚂𝚄 🌹🌹-black?style=for-the-badge&logo=github" alt="🌹🌹 𝙼𝚛 𝙿𝚄𝚂𝚄 🌹🌹" /> </a>
+<a href="https://github.com/legendaditya03"> <img src="https://img.shields.io/badge/🌹🌹 𝙼𝚛 𝙿𝚄𝚂𝚄 🌹🌹-black?style=for-the-badge&logo=github" alt="🌹🌹 𝙼𝚛 𝙿𝚄𝚂𝚄 🌹🌹" /> </a>
 <p align="center">
 <a href="https://telegram.me/legend_pusu"><img src="https://img.shields.io/badge/-🌹🌹 𝙼𝚛 𝙿𝚄𝚂𝚄 🌹🌹%20-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>

@@ -79,7 +79,7 @@
 </h1>
 </details> 
 
-	Note:- Fill https://github.com/IR-O/IRO_ROBOT/blob/main/IRO/confing.py Before Use
+	Note:- Fill https://github.com/legendaditya03/Pusu-Secure/blob/main/IRO/confing.py Before Use
 	
 <details>
 	<summary> ᴠᴘꜱ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ </summary>
@@ -90,7 +90,7 @@
 	
 `sudo pip3 install -U pip`
 
-`git clone https://github.com/IR-O/IRO_ROBOT && cd IRO_ROBOT`
+`git clone https://github.com/legendaditya03/Pusu-Secure && cd Pusu-Secure
 
 `pip3 install --upgrade pip setuptools`
 

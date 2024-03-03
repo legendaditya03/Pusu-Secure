@@ -24,7 +24,7 @@
 </p>
 
 
-### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ [ɪꝛᴏ](https://t.me/Iro_m_bot).
+### ᴄᴀɴ ʙᴇ ꜰᴏᴜɴᴅ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ [𝙿𝚄𝚂𝚄 ✘ 𝚂𝙴𝙲𝚄𝚁𝙴](https://t.me/PusuXSecure_Bot).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -32,7 +32,8 @@
 ─「 ᴄʀᴇᴅɪᴛꜱ 」─ 
 
 
-ᴛʜᴀɴᴋꜱ ᴛᴏ ᴀʟʟ ᴛʜᴇ [ᴅᴇᴠꜱ](https://t.me/PusuXMusic_Bot) ᴛᴏ ɢɪᴠᴇ ᴛʜᴇɪʀ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴛɪᴍᴇ ᴛᴏ [𝙿𝚄𝚂𝚄 ✘ 𝚂𝙴𝙲𝚄𝚁𝙴](https://t.me/PusuXSecure_Bot)
+ᴄʜᴇᴄᴋ [˹𝙿𝚄𝚂𝚄 ✘ 𝙼𝚄𝚂𝙸𝙲˼](https://t.me/PusuXMusic_Bot) ᴀɴᴅ ᴀʟꜱᴏ [˹𝙿𝚄𝚂𝚄 ✘ 𝚂𝙴𝙲𝚄𝚁𝙴˼](https://t.me/PusuXSecure_Bot)
+
 
 <p align="center">
 <a href="https://github.com/legendaditya03"> <img src="https://img.shields.io/badge/🌹🌹 𝙼𝚛 𝙿𝚄𝚂𝚄 🌹🌹-black?style=for-the-badge&logo=github" alt="🌹🌹 𝙼𝚛 𝙿𝚄𝚂𝚄 🌹🌹" /> </a>
